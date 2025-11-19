@@ -35,7 +35,4 @@ header { padding: 1rem; border-bottom: 1px solid #d6e3f3; }
 h1,h2,h3,p { margin: 0 0 .6rem; }
 footer { padding: 1rem; text-align: center; border-top: 1px solid #d6e3f3; color: #244; }
 a { color: #2a5b9e; }
-Teaching Project
-ShapeUp
-4
 </style>
